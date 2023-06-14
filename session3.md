@@ -36,7 +36,7 @@ style: |
 
 - **Critique** 2x DIY Buttons
 - **Workshop** Re-designing / Diffusing LEDs
-- **Lecture** Identifying learning outcomes
+- **Workshop** Identifying learning outcomes
 - **Assignments**
     - Read Selections from “Machine Project Guide to Workshops,” Mark Allen
     - Prototype 2x 1 input / 1 output prototypes
