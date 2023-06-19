@@ -246,8 +246,8 @@ Community members often approach Elizabeth and I reticent to participate, believ
 ## Required materials
 
 - 220 Ohm Resistors (10)
-- LEDs (10)
-- AAA Batteries (2) and AAA Battery Clip
+- 10mm LEDs (10)
+- AA / AAA Batteries (4 total) and AA / AAA Battery Clip
 - Breadboard
 - Breadboard wire
 - Conductive Tape

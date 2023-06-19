@@ -34,11 +34,11 @@ style: |
 
 ## Session 2
 
-- **Lecture** Introduction to Electronics
-- **Workshop** Prototyping on a Breadboard; LEDs; Light switch; Button Terminology, Momentary vs. Toggle
-- **Demo** DIY Buttons
-- **Group Workshop** Prep for homework assignment
-- **Assignments**
+- **Lecture** Introduction to Electronics *Slides 3 - 8*
+- **Workshop** Prototyping on a Breadboard; LEDs; Light switch; Button Terminology, Momentary vs. Toggle *Slides 9 - 18*
+- **Demo** DIY Buttons *Slide 19*
+- **Group Workshop** Prep for homework assignment *Slide 20*
+- **Assignments** *Slide 21*
   - Read “Haiti Photography Project,” Chin
   - 10x DIY Button Prototype Sketches
   - Prototype 2x DIY Buttons (1 momentary, 1 toggle)

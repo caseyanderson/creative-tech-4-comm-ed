@@ -32,6 +32,6 @@ style: |
 
 <!-- paginate: true -->
 
-
 ## Session 5
-- **Critique** 2 input / 2 output prototypes, learning outcomes
+- **Critique** 2 input / 2 output prototypes, prototype journal final presentations / critique
+- **Next Steps** Recommended Platforms for further Technology Education
