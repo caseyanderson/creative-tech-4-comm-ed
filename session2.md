@@ -49,7 +49,7 @@ style: |
 
 **Electricity** is the flow of **electrons**.
 
-Working with electricity requires an understanding of the behavior of electrons. We can measure this behavior in order to accomplish certain goals.
+Working with electricity requires an understanding of the behavior of electrons. We can measure this behavior in order to decide how to accomplish certain goals.
 
 For our purposes we will limit our electronics discussion to the following characteristics: **resistance**, **current**, and **voltage**.
 

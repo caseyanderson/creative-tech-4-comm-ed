@@ -133,7 +133,7 @@ I traveled to LKM with my collaborator, [Elizabeth Chin](https://elizabethjchin.
 
 ![bg right](imgs/LKM/Toothbrush-Robot-2019-ZJackson.JPG)
 
-During our Summer 2019 trip we began piloting the toothbrush robot workshop, where participants mount a simple circuit (a battery and vibration motor) to a toothbrush with glue. The vibrating motor causes the bristles to move, similar to how an insect walks.
+During our Summer 2019 trip we began piloting the toothbrush robot workshop, where participants mount a simple circuit (a coin-cell battery and vibration motor) to a toothbrush with glue. The vibrating motor causes the bristles to move, similar to how an insect walks.
 
 ---
 
@@ -195,7 +195,7 @@ These independent explorations indicate the likely success of a regular technolo
 
 ### KAOS Network
 
-Elizabeth and I had been looking for a local (Los Angeles) site to continue developing our hands-on technology curriculum, due in part to our inability to return to Haiti since 2019 and also to test what had been successful at LKM in other communities. We eventually connected with Los Angeles-based filmmaker / community organizer Ben Caldwell, who invited us to teach on the sidewalk in front of his Leimert Park community arts center once a week. We have been doing so for nearly two years.
+Elizabeth and I had been looking for a local (Los Angeles) site to continue developing our hands-on technology curriculum, due to our inability to return to Haiti since 2019. We also hoped to test what had been successful at LKM in other communities. We connected with Los Angeles-based filmmaker / community organizer Ben Caldwell, who invited us to teach on the sidewalk in front of his Leimert Park community arts center once a week. We have been doing so for two years.
 
 ---
 
@@ -209,7 +209,7 @@ Ben's work with KAOS Network, over almost the last 40 years, has had a monumenta
 
 ### Toothbrush Robots
 
-One day a week Elizabeth and I set up two tables full of electronics supplies under a portable tent in front of KAOS Network. Our toothbrush robot activity has become the defining feature of our work in Leimert. When passers-by make eye contact with us we invite them to join us by asking "Want to build al robot?"
+One day a week Elizabeth and I set up two tables full of electronics supplies under a portable tent in front of KAOS Network. Our toothbrush robot activity has become the defining feature of our work in Leimert. When passers-by make eye contact with us we invite them to join us by asking "Want to build a robot?"
 
 ---
 
@@ -239,7 +239,7 @@ Participants often combine multiple activities into a new kind of hybrid activit
 
 ### KAOS Network & Sustainable Community Engagement
 
-Community members often approach Elizabeth and I reticent to participate, believing that they are incapable of understanding technology. After being guided through building a robot, however, participants reveal that they have additional, more complex technology ideas they want to discuss. Community members leave a session with us feeling energized to participate in the development community-facing, technology-mediated projects in the neighborhood, many of which are spear-headed by Ben and KAOS Network.
+Community members often approach Elizabeth and I reticent to participate, believing that they are incapable of understanding technology. After being guided through building a robot, however, participants reveal that they have additional, more complex technology ideas they want to discuss. Community members leave a session with us feeling energized to participate in the development of community-facing, technology-mediated projects in the neighborhood, many of which are spear-headed by Ben and KAOS Network.
 
 ---
 
@@ -259,12 +259,3 @@ Community members often approach Elizabeth and I reticent to participate, believ
 ## Assignments
 - Read [Repurpose, Remix, Bend: Piloting A Locally Defined Technology Curriculum](https://www.americananthropologist.org/online-content/repurpose-remix-bend-piloting-a-locally-defined-technology-curriculum), Anderson
 - Acquire Materials
-
----
-
-## Credits
-
-Photos by
-- [Elizabeth Chin](https://elizabethjchin.com/)
-- Zo&euml; Jackson
-- Meghan Caudill

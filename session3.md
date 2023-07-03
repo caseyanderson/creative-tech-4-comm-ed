@@ -46,7 +46,7 @@ style: |
 
 ### 2x DIY Buttons
 
-Each student presents their two DIY Button prototypes for class and instructor feedback, CTA gives examples of revisions to consider and activities they could be used for
+Each student presents their two DIY Button prototypes for class and instructor feedback, CTA gives examples of revisions to consider and activities for which they can be used.
 
 ---
 
@@ -79,7 +79,7 @@ A demonstration of a few ways to embed / diffuse LEDs to productively change the
 
 ### Title
 
-Giving your prototype a title sometimes helps you prioritize focusing on certain things over others. This may change throughout the completion of the prototype.
+Giving your prototype a title helps you prioritize focusing on certain features over others. This may change throughout the completion of the prototype.
 
 ---
 

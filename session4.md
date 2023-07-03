@@ -43,7 +43,7 @@ style: |
 
 ### 2x Input / 2x Output In-progress Prototype Review
 
-Each student presents their in-progress 2x Input / 2x Output prototypes, and prototype journal, for class and instructor feedback, CTA gives feedback.
+Each student presents their in-progress 2x Input / 2x Output prototypes, and prototype journal, for class and instructor feedback.
 
 ---
 
@@ -58,7 +58,7 @@ Each student presents their in-progress 2x Input / 2x Output prototypes, and pro
 
 ### Simple Enclosures
 
-A demonstration of a few ways to desig simple enclosures to enhance the finish of your prototype
+A demonstration of a few ways to design simple enclosures to enhance the finish of your prototype
 
 ---
 
